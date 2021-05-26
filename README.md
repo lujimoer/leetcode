@@ -1,2 +1,2 @@
-# leetcdoe
+# leetcode
 leetcode_algo
